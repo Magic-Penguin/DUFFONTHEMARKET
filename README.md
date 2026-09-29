@@ -1,7 +1,7 @@
 # DUFFONTHEMARKET
 Uploaded the Visual Studio Project folder directly to Git.
 
-Includes the required screenshots in a folder: 
+Includes the **required screenshots** in a folder: 
 
 Whiteboard photo + Discord evidence.
 
