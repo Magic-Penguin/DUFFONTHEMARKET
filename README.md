@@ -9,3 +9,4 @@ Includes the **required screenshots** in a folder:
 
 3. Completed C# Code Map.
 
+a README that explains the input, variable, output, user, purpose, peer test, and revision;
